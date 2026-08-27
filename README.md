@@ -1,26 +1,21 @@
+[![English](https://img.shields.io/badge/English-000000?style=flat-square)](./README.md)
+[![中文](https://img.shields.io/badge/中文-555555?style=flat-square)](./README_CN.md)
+
 <div align="center">
 
 # Hi 👋 I'm Suning
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&center=true&vCenter=true&width=520&lines=Data+Science+%7C+AI+%7C+Software+Engineering;Exploring+LLM+Systems+%26+AI+Infrastructure;Building+and+Learning+in+Open+Source)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Data+Science+%7C+AI+%7C+Software+Engineering;Exploring+LLM+Systems+%26+AI+Infrastructure;Building+Customer-Facing+AI+Solutions\&center=true\&width=600)](https://git.io/typing-svg)
 
 </div>
 
 ### About Me
 
-- 🎓 Data Science graduate student
-- 🤖 Interested in AI/ML, LLM systems, and AI infrastructure
-- 💻 Working with Python, PyTorch, SQL, React, and Docker
-- 🌱 Exploring open-source inference systems
+* 🎓 Data Science graduate student
+* 🤖 Interested in AI/ML, LLM systems, and AI infrastructure
+* 💻 Working with Java, JavaScript, TypeScript, Python, and PyTorch
+* 🌱 Interested in building customer-facing AI solutions
 
 ### Tech Stack
 
-`Python` · `R` · `SQL` · `PyTorch` · `scikit-learn` · `React` · `Docker` · `Git`
-
-<div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=suninnn&show_icons=true&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=suninnn&layout=compact&hide_border=true)
-
-</div>
+`Java` · `JavaScript` · `TypeScript` · `Python` · `PyTorch`
