@@ -18,4 +18,4 @@
 
 ### 技术栈
 
-`Python` · `PyTorch` · `Java` · `JavaScript` · `TypeScript`
+`Python` · `PyTorch` · `scikit-learn` · `Java` · `TypeScript` · `React` · `FastAPI` · `Spring Boot` · `SQL` · `Docker` · `AWS` · `Git`
