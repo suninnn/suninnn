@@ -14,8 +14,8 @@
 * 🎓 Data Science graduate student
 * 🤖 Interested in AI/ML, LLM systems, and AI infrastructure
 * 💻 Working with Java, JavaScript, TypeScript, Python, and PyTorch
-* 🌱 Interested in building customer-facing AI solutions
+* 🌱 Building customer-facing AI in public
 
 ### Tech Stack
 
-`Python` · `PyTorch` · `Java` · `JavaScript` · `TypeScript`
+`Python` · `PyTorch` · `scikit-learn` · `Java` · `TypeScript` · `React` · `FastAPI` · `Spring Boot` · `SQL` · `Docker` · `AWS` · `Git`
