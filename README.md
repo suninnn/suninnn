@@ -18,4 +18,4 @@
 
 ### Tech Stack
 
-`Java` · `JavaScript` · `TypeScript` · `Python` · `PyTorch`
+`Python` · `PyTorch` · `Java` · `JavaScript` · `TypeScript`
