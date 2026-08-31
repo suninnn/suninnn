@@ -13,7 +13,7 @@
 
 * 🎓 Data Science graduate student | Class of 2027 | Based in the Bay Area
 * 🤖 Interested in AI/ML, LLM systems, and AI infrastructure
-* 💻 Working with Java, JavaScript, TypeScript, Python, and PyTorch
+* 💻 Working with Python, PyTorch, Java, JavaScript and TypeScript
 * 🌱 Building customer-facing AI in public
 
 ### Tech Stack
