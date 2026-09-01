@@ -11,7 +11,7 @@
 
 ### About Me
 
-* 🎓 Data Science graduate student | Class of 2027 | Based in the Bay Area
+* 🎓 UCLA Data Science graduate student | Class of 2027 | Based in the Bay Area
 * 🤖 Interested in AI/ML, LLM systems, and AI infrastructure
 * 💻 Working with Python, PyTorch, Java, JavaScript and TypeScript
 * 🌱 Building customer-facing AI in public
